@@ -1,6 +1,6 @@
 ## Greetings, my name is **Islam**
 
- *and*
+_and_
 
 ## I am React JS Frontend Developer
 
@@ -8,7 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DexterYBN)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ***My skills:***
+## **_My skills:_**
+
 <ul>
     <li><b>REACT</b></li>
     <li><b>JS</b></li>
@@ -22,4 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterYBN)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DexterYBN) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' color='#'>](https://www.instagram.com/deus_vulttt/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DexterYBN)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' color='#'>](https://www.instagram.com/deus_vulttt/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='instagram' height='40' color='#'>](https://www.t.me/Yakubov775)
