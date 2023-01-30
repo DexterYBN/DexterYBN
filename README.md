@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, my name is Islam<br><br>I am React JS Frontend Developer
+# Greetings, my name is Islam<br><br>I am React JS Frontend Developer
 
 
 ## 🌐 Socials:
