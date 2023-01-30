@@ -3,7 +3,7 @@ Greetings, my name is Islam<br><br>I am React JS Frontend Developer
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dexter#5275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deus_vulttt/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/dexter628) [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=discord&logoColor=white)](https://t.me/Yakubov775)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dexter#5275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deus_vulttt/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/dexter628) [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/Yakubov775)
 
 [![](https://visitcount.itsvg.in/api?id=DexterYBN&icon=2&color=6)](https://visitcount.itsvg.in)
 
