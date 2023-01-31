@@ -9,6 +9,8 @@
 # <div align="center">![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)![BCRYPT](https://img.shields.io/badge/BCRYPT-black?style=flat&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   
   # <div align="center">Other:</div>
+  
+  # <div align="center"> Demo: https://into-news.onrender.com/ </div>
 # <div align="center">  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-4B3263?style=flat&logo=prettier&logoColor=white)</div>
 # <div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcviolence&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
 
