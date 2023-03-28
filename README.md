@@ -10,9 +10,6 @@
   
   # <div align="center">Other:</div>
   # <div align="center">  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-4B3263?style=flat&logo=prettier&logoColor=white)</div>
-  # <div align="center"> My projects:</div>
-  
-# <div align="center"> - Intonews: [Code](https://github.com/zxcviolence/news-site-frontend) | [Demo](https://into-news.onrender.com/) </div>
 
 # <div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcviolence&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
 
