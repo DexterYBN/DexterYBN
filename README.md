@@ -1,4 +1,4 @@
-### <div align="center">Greetings!🖐️<br><br>My name is Islam<br><br>React Frontend Developer</div>
+### <div align="center">React Frontend Developer</div>
 
 ## <div align="center">Socials: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dexter#5275) [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/Yakubov775)</div>
 
