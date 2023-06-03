@@ -1,8 +1,7 @@
 # <div align="center">React Frontend Developer</div>
 
 ## <div align="center">Мой стек технологий:</div> <br/>
-<div>
-### <div align="start">Frontend</div> <br/> 
+### <div align="center">Frontend</div> <br/> 
   <ul><li>React</li>
   <li>JS</li>
   <li>HTML5</li>
@@ -13,12 +12,12 @@
   <li>Material UI</li>
     <li>Webpack</li></ul>
   <br/>
-  <div align="end">Backend <br/> 
-  - NodeJS
-  - MongoDB
-  - JWT
-  - BCrypt
-  - Express</div></div>
+  ### <div align="center">Backend</div> <br/>
+  <ul><li>NodeJS</li>
+  <li>MongoDB</li>
+  <li>JWT</li>
+  <li>BCrypt</li>
+  <li>Express</li></ul></div>
 
 
 
