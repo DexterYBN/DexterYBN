@@ -1,6 +1,6 @@
 ### React Frontend Developer
 
-Мой стек технологий: React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier
+# Мой стек технологий: <br/> React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier
 
 
 
