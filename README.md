@@ -4,7 +4,19 @@
 Frontend <br/> 
   - React
   - JS
-  - HTML5 CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier</div>
+  - HTML5 
+  - CSS3/ 
+  - Redux/ 
+  - React-router
+  - Bootstrap 
+  - Material UI 
+  - Webpack 
+  Backend <br/> 
+  - NodeJS
+  - MongoDB
+  - JWT
+  - BCrypt
+  - Express</div>
 
 
 
