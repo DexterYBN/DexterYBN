@@ -1,6 +1,8 @@
 # <div align="center">React Frontend Developer</div>
 
-### <div align="center">Мой стек технологий: </div> <br/>React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier
+## <div align="center">Мой стек технологий: </div> <br/>
+<div align="center">Клиентская часть <br/> 
+  React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier</div>
 
 
 
