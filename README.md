@@ -1,6 +1,6 @@
 # <div align="center">React Frontend Developer</div>
 
-## <div align="center">Мой стек технологий: <br/>
+## <div align="center">Мой стек технологий: <hr/>
 Frontend <br/> 
   - React
   - JS
