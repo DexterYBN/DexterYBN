@@ -7,18 +7,18 @@
   <li>JS</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Redux</li>
+  <li>Redux Toolkit</li>
   <li>React-router</li>
   <li>Bootstrap</li>
   <li>Material UI</li>
-    <li>Webpack</li></ul>
+  <li>Webpack</li></ul>
  
 ## Backend <br/>
   <ul><li>NodeJS</li>
   <li>MongoDB</li>
   <li>JWT</li>
   <li>BCrypt</li>
-  <li>Express</li></ul></div>
+  <li>Express</li></ul>
 
 
 
