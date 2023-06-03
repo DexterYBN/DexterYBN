@@ -2,7 +2,7 @@
 
 ## <div align="center">Мой стек технологий:</div> <br/>
 <div align="center">Frontend</div> <br/> 
-  <ul><li>React</li>
+  <div align="center"><ul><li>React</li>
   <li>JS</li>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -10,7 +10,7 @@
   <li>React-router</li>
   <li>Bootstrap</li>
   <li>Material UI</li>
-    <li>Webpack</li></ul>
+    <li>Webpack</li></ul></div>
   <br/>
   <div align="center">Backend <br/> 
   - NodeJS
