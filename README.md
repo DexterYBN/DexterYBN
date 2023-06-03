@@ -3,6 +3,7 @@
 ##  <div align="center">Мой стек технологий:</div> <br/>
 ## Frontend <br/> 
   <ul><li>React</li>
+  <li>NextJS</li>
   <li>JS</li>
   <li>HTML5</li>
   <li>CSS3</li>
