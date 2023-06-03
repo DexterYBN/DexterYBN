@@ -1,4 +1,4 @@
-### <div align="center">React Frontend Developer</div>
+### <div align="center">React Frontend Developer[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)</div>
 
 ## <div align="center">Связь со мной: [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/Yakubov775)</div>
 
