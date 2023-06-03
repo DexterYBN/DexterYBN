@@ -1,8 +1,8 @@
 # <div align="center">React Frontend Developer</div>
 
 ## <div align="center">Мой стек технологий:</div> <br/>
-<div align="center" display="flex">Frontend <br/> 
-  <li>React</li>
+<div align="center">Frontend <br/> 
+  <ul><li>React</li>
   <li>JS</li>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -10,7 +10,7 @@
   <li>React-router</li>
   <li>Bootstrap</li>
   <li>Material UI</li>
-  <li>Webpack</li></div>
+    <li>Webpack</li></ul></div>
   <br/>
   <div align="center">Backend <br/> 
   - NodeJS
