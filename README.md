@@ -1,6 +1,6 @@
 # React Frontend Developer
 
-### Мой стек технологий: <br/> <div align-items: "center">324<div/>React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier
+### Мой стек технологий: <br/> <div align="center">324<div/>React / JS / HTML5 / CSS3 / Redux / React-router / Bootstrap / Material UI / Webpack / NodeJS / MongoDB / JWT / BCrypt / Express / Prettier
 
 
 
