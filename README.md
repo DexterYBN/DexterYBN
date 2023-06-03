@@ -1,7 +1,7 @@
 # <div align="center">React Frontend Developer</div>
 
-## Мой стек технологий: <br/>
-### <div align="center">Frontend</div> <br/> 
+##  <div align="center">Мой стек технологий:</div> <br/>
+### Frontend <br/> 
   <ul><li>React</li>
   <li>JS</li>
   <li>HTML5</li>
@@ -12,7 +12,7 @@
   <li>Material UI</li>
     <li>Webpack</li></ul>
   <br/>
- <div align="center">Backend</div> <br/>
+ ### Backend <br/>
   <ul><li>NodeJS</li>
   <li>MongoDB</li>
   <li>JWT</li>
