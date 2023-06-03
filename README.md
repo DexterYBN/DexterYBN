@@ -17,8 +17,10 @@
   <ul><li>NodeJS</li>
   <li>MongoDB</li>
   <li>JWT</li>
-  <li>BCrypt</li>
-  <li>Express</li></ul>
+  <li>Express-validator</li>
+  <li>Bcrypt</li>
+  <li>Express</li>
+  </ul>
 
 
 
