@@ -2,15 +2,15 @@
 
 ## <div align="center">Мой стек технологий:</div> <br/>
 <div align="center">Frontend <br/> 
-  <li>- React
-  - JS
-  - HTML5 
-  - CSS3 
-  - Redux
-  - React-router
-  - Bootstrap 
-  - Material UI 
-    - Webpack</li></div>
+  <li>React</li>
+  <li>JS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Redux</li>
+  <li>React-router</li>
+  <li>Bootstrap</li>
+  <li>Material UI</li>
+  <li>Webpack</li></div>
   <br/>
   <div align="center">Backend <br/> 
   - NodeJS
