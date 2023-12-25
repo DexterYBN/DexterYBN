@@ -7,11 +7,14 @@
   <li>JS</li>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>SCSS</li>
   <li>Redux Toolkit</li>
-  <li>React-router</li>
+  <li>React-router v6</li>
+  <li>RTK Query</li>
   <li>Bootstrap</li>
   <li>Material UI</li>
   <li>Webpack</li></ul>
+  <li>Vite</li>
  
 ## Backend <br/>
   <ul><li>NodeJS</li>
@@ -20,7 +23,6 @@
   <li>Express-validator</li>
   <li>Bcrypt</li>
   <li>Express</li>
-  <li>Axios</li>
   </ul>
 
 
