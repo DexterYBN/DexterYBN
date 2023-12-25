@@ -1,4 +1,4 @@
-# <div align="center">React Frontend Developer</div>
+# <div align="center"><ReactFrontendDeveloper /></div>
 
 ##  <div align="center">Мой стек технологий:</div> <br/>
 ## Frontend <br/> 
