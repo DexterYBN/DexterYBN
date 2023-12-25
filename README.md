@@ -13,8 +13,8 @@
   <li>RTK Query</li>
   <li>Bootstrap</li>
   <li>Material UI</li>
-  <li>Webpack</li></ul>
-  <li>Vite</li>
+  <li>Webpack</li>
+  <li>Vite</li></ul>
  
 ## Backend <br/>
   <ul><li>NodeJS</li>
